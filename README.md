@@ -1,26 +1,9 @@
-# Technology Profile
-
-## Areas of Expertise
-- **IoT Systems Development:**  
-  Leading teams in the design, manufacturing, firmware, cloud integration, and operations for smart metering solutions.
-  
-- **Smart Metering Innovation:**  
-  - Developed and transitioned smart gas meters (P4 and PX series).
-  - Led the migration of server infrastructure toward serverless architectures.
-  - Optimized BLE (Bluetooth Low Energy) protocols and OTA (Over-the-Air) firmware updates.
-
-- **AWS Cloud Architecture:**  
-  - Applying AWS Well-Architected principles.
-  - Focused on improving platform resiliency, monitoring, and data pipeline efficiency.
-
-- **Product Research & Development:**  
-  - Investigating soft-sensing technologies to enhance appliance energy monitoring.
-  - Exploring AI applications in PAYG (Pay-As-You-Go) kitchen appliances.
-
-- **Current Initiatives:**  
-  - Managing the rollout of state of the art prepaid LPG solution integrated into IoT smart meters.
-  - Studying technology adoption of PAYGO appliances in African markets.
-
----
-
-_Passionate about building resilient, scalable technology solutions that create impact in emerging and developed markets._
+#Technology Profile
+## IoT & Smart Systems Leadership
+Driving end-to-end development of smart metering platforms — from hardware design and firmware to cloud architecture and field operations. Led the evolution of the P4 and PX smart gas meters and the transition to a modern, serverless infrastructure.
+## Technology Strategy & Architecture
+Championing AWS Well-Architected principles to build resilient, observable, and cost-efficient IoT ecosystems. Experienced in scaling platforms across multiple geographies and partners.
+## Innovation & Product Vision
+Pioneering R&D in soft-sensing, AI-enhanced energy monitoring, and PAYG appliance intelligence to accelerate access to clean energy and smarter homes.
+## Current Focus
+Overseeing the rollout of next-generation prepaid LPG solutions and leading research on PAYGO adoption across African markets. Passionate about technology that scales sustainably and delivers tangible social impact.
