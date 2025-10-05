@@ -1,4 +1,4 @@
-#Technology Profile
+## Technology Profile
 ## IoT & Smart Systems Leadership
 Driving end-to-end development of smart metering platforms — from hardware design and firmware to cloud architecture and field operations. Led the evolution of the P4 and PX smart gas meters and the transition to a modern, serverless infrastructure.
 ## Technology Strategy & Architecture
